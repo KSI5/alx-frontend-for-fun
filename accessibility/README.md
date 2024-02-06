@@ -1,6 +1,6 @@
 # Accessibility Task
 
-# Description:bulb:
+## Description:
 One does not simply ignore accessibility
 
 - ARIA's main purpose
@@ -20,7 +20,7 @@ This project focuses on enhancing the accessibility of a web application to ensu
 - **Semantic HTML**: Use semantic HTML elements to provide a clear structure for assistive technologies.
 - **Testing and Validation**: Conduct thorough testing using accessibility tools and perform manual testing with assistive technologies to validate improvements.
 
-# Task Files:
+## Task Files:
 0. make the "works" card focus visible
 1. add the skip-links
 2. Elements must have sufficient color contrast
@@ -45,5 +45,6 @@ This project focuses on enhancing the accessibility of a web application to ensu
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/KSI5/alx-frontend-for-fun]
+   git clone [alx-frontend-for-fun](https://github.com/KSI5/alx-frontend-for-fun)
+
    cd accessibility-task
