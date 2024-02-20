@@ -1,9 +1,9 @@
-//  loop photos
+/* Creates a class for each name in the list $list-names and assigns the background image based on the name */
 
-@import 'variables';
+@import '11-photos';
 
 @each $name in $list-names {
-  .#{lowercase($name)} {
-    background-image: url('images/#{lowercase($name)}.jpg');
+  .photo-#{$name} {
+      background: image-url('photos/#{$name}.jpg') no-repeat;
   }
 }
